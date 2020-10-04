@@ -8,5 +8,6 @@ Em meu tempo livre, gosto de estudar, ler alguns livros, e praticar atividade fi
 
 Quer bater um papo, me encontrar?
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/reinaldodorti)](https://www.instagram.com/reinaldodorti)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=https://www.instagram.com/reinaldodorti)](https://www.instagram.com/reinaldodorti)
 [![Instagram Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/reinaldorti)](https://www.facebook.com/reinaldorti)
+[![Instagram Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&labelColor=red&logo=facebook&logoColor=white&link=https://www.youtube.com/channel/UCfB0XRFZgoCFSi0wNYebUFA?view_as=subscriber)](https://www.youtube.com/channel/UCfB0XRFZgoCFSi0wNYebUFA?view_as=subscriber)
