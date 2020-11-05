@@ -4,7 +4,7 @@ Meu nome é Reinaldo Dorti, atualmente procurando oportunidade para atuar com de
 
 Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se aprendermos 1% ao dia, em 1 ano teremos evoluido 365%, por isso, depois de quase 20 anos atuando na área de Desenvolvimento web, sistemas e infraestrutura, e passando por empresas de Médio e Grande porte, comecei a aprender desenvolvimento de Sistemas em 2000, e estou correndo atrás do meu sonho, me tornar um Desenvolvedor WEB Full-Stack.
 
-Em meu tempo livre, gosto de estudar, ler alguns livros, e praticar atividade fisica;
+Em meu tempo livre, gosto de estudar e praticar atividade fisica;
 
 Quer bater um papo, me encontrar?
 
