@@ -2,9 +2,9 @@
 
 Meu nome é Reinaldo Dorti, atualmente procurando oportunidade para atuar com desenvolvimento Back-end, utilizando PHP, Laravel, Jquery, html5 e css.
 
-Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se aprendermos 1% ao dia, em 1 ano teremos evoluido 365%, por isso, depois de quase 20 anos atuando na área de Desenvolvimento web, sistemas e infraestrutura, e passando por empresas de Médio e Grande porte, comecei a aprender desenvolvimento de Sistemas em 2000, e estou correndo atrás do meu sonho, me tornar um Desenvolvedor WEB Full-Stack.
+Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se aprendermos 1% ao dia, em 1 ano teremos evoluido 365%, por isso, depois de quase 20 anos área de Desenvolvimento web, sistemas e passando por empresas de Médio e Grande porte, comecei a estudar desenvolvimento em 2000, e estou sempre em constante evolução.
 
-Em meu tempo livre, gosto de estudar e praticar atividade fisica;
+Em meu tempo livre, gosto de estudar programação e praticar atividade fisica;
 
 Quer bater um papo, me encontrar?
 
